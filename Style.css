@@ -30,7 +30,7 @@ table, td, th {
 
 
 .center-list {
-    width: 50%;
+    width: 100;
     list-style-position:inside;
     text-align: left;
     display: inline-block;}
