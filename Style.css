@@ -22,7 +22,7 @@ table, td, th {
 
 }
 .center {
-    width: 100;
+    width: fit-content;
     margin: auto;
     text-align: center;
 }
@@ -30,7 +30,7 @@ table, td, th {
 
 
 .center-list {
-    width: 100;
+    width: fit-content;
     list-style-position:inside;
     text-align: left;
     display: inline-block;}
